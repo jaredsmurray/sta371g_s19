@@ -28,7 +28,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 
 # Lecture notes and related materials
 
-- [Section 1.1: Introduction and Probability concepts](slides/Section01.1.pdf) 
+- [Section 1.1: Introduction and Probability concepts](slides/Section01.1.pdf) ([R code](slides/Section01.1.R)) 
 
 
 # Homework assignments (solutions available via Canvas)
