@@ -15,13 +15,13 @@ Jump to:
 - *Email:* jared.murray@mccombs.utexas.edu
 - *Website:* http://jaredsmurray.github.io/
 - *Office:* CBA 6.482 (Sixth floor, on the east side of the building that faces the entrance of Gregory Gym)
-- *Office Hours:* Wednesday 5 - 6 PM and Thursday 9 - 10 AM. Please email me to set appointments; this ensures that I'm prepared for your visit, and that you don't waste time trying to drop in when I'm not available.
+- *Office Hours:* Wednesday 5 - 6 PM and Thursday 9 - 10 AM, or by appointment. Please email me to set appointments; this ensures that I'm prepared for your visit, and that you don't waste time trying to drop in when I'm not available.
 
 ### Teaching Assistant 
 
-Ylin He, IROM PhD Student
+Yilin He, IROM PhD Student
 
-- *Email:* ylin.he@mccombs.utexas.edu
+- *Email:* yilin.he@mccombs.utexas.edu
 - *Office Hours:* Thursday 6 - 7 PM in CBA 5.324C 
 
 Please see the [syllabus](files/syllabus.pdf) for more information.
@@ -36,6 +36,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 
 1. Homework 0 (nothing to turn in!): Complete the first three tutorials listed below under "R/RStudio resources". By "complete" I mean follow along with the reading, and make sure you can run all the R commands from within RStudio. It is most helpful if you actually type the commands in yourself, rather than copy and pasting the code. It's tedious at first but helpful for learning. Once you've worked through the tutorials, run the R code accompanying the Section 1.1 lecture notes. Try changing things and see what happens!
 2. [Homework 1](homework/HW1G.pdf)
+3. [Homework 2](homework/hw2.pdf)
 
 
 # R/RStudio resources
