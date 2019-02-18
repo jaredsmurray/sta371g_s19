@@ -1,6 +1,6 @@
 
 # pnorm(q, mean, sd) gives Pr(X<q) when X ~ N(mean, sd^2) (here N(6, 225)) 15^2=225 is the variance
-pnorm(0, mean=6, sd=15)
+pnorm(0, mean=6, sd=15, lower.tail=FALSE)
 
 
 # qnorm(p, mean, sd) *solves* Pr(X<q)=p for q when X ~ N(mean, sd^2) (here N(6, 225))
@@ -9,6 +9,7 @@ qnorm(0.02, mean=6, sd=15)
 set.seed(1)
 val = 1 + rnorm(1, 6, 15)/100
 print(val)
+
 for(year in 2:20) {
   val = val*(1 + rnorm(1, 6, 15)/100)
 }

@@ -31,6 +31,8 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 - [Section 1.1: Introduction and Probability concepts](slides/Section01.1.pdf) ([R code](slides/Section01.1.R)) 
 - [Section 1.2: Probability and Decisions](slides/Section01.2.pdf) ([Sharpe ratio R code](slides/class_portfolio_code.R))
 - [Section 1.3: The Normal and Other Continuous Distributions](slides/Section01.3.pdf) ([R code](slides/Section01.3.R))
+- [Section 1.4: Learning from Data](slides/Section01.4.pdf) ([R code](slides/Section01.4.R))
+- [Section 2.1: Simple Linear Regression: Least Squares](slides/Section02.1.pdf) ([R code](slides/Section02.1.R))
 
 # Homework assignments (solutions available via Canvas)
 
