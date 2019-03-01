@@ -15,7 +15,7 @@ Jump to:
 - *Email:* jared.murray@mccombs.utexas.edu
 - *Website:* http://jaredsmurray.github.io/
 - *Office:* CBA 6.482 (Sixth floor, on the east side of the building that faces the entrance of Gregory Gym)
-- *Office Hours:* Wednesday 5 - 6 PM and Thursday 9 - 10 AM, or by appointment. Please email me to set appointments; this ensures that I'm prepared for your visit, and that you don't waste time trying to drop in when I'm not available.
+- *Office Hours:* Wednesday 5 - 6 PM and Tuesday 9 - 10 AM, or by appointment. Please email me to set appointments; this ensures that I'm prepared for your visit, and that you don't waste time trying to drop in when I'm not available.
 
 ### Teaching Assistant 
 
