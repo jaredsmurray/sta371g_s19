@@ -40,6 +40,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 2. [Homework 1](homework/HW1G.pdf)
 3. [Homework 2](homework/hw2.pdf)
 3. [Homework 3](homework/hw3_g.pdf)
+4. [Homework 4](homework/hw4.pdf)
 
 
 # R/RStudio resources
