@@ -22,7 +22,7 @@ Jump to:
 Yilin He, IROM PhD Student
 
 - *Email:* yilin.he@mccombs.utexas.edu
-- *Office Hours:* Thursday 6 - 7 PM in CBA 5.324C 
+- *Office Hours:* Tuesday 4 - 5 PM in CBA 5.324C 
 
 Please see the [syllabus](files/syllabus.pdf) for more information.
 
