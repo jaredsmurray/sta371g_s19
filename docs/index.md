@@ -43,7 +43,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 3. [Homework 2](homework/hw2.pdf)
 3. [Homework 3](homework/hw3_g.pdf)
 4. [Homework 4](homework/hw4.pdf)
-4. [Homework 5](homework/hw5.pdf)
+4. [Homework 5](homework/hw5.pdf) R code to read in data is here: [hw5.R](hw5.R)
 
 
 # R/RStudio resources
