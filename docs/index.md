@@ -34,6 +34,10 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 - [Section 1.4: Learning from Data](slides/Section01.4.pdf) ([R code](slides/Section01.4.R))
 - [Section 2.1: Simple Linear Regression: Least Squares](slides/Section02.1.pdf) ([R code](slides/Section02.1.R))
 - [Section 2.2: Simple Linear Regression: Predictions and Inference](slides/Section02.2.pdf) ([R code](slides/Section02.2.R))
+- [Section 3.1: Multiple Linear Regression](slides/Section03.1.pdf) ([R code](slides/Section03.1.R))
+- [Section 3.2: Multiple Linear Regression II](slides/Section03.2.pdf) ([R code](slides/Section03.2.R))
+- [Section 3.3: Dummies and Interactions](slides/Section03.3.pdf) ([R code](slides/Section03.3.R)), Beauty and course evaluations example: [Summary + R script](files/beauty.R)
+- [Section 3.4: Diagnostics and Transformations](slides/Section03.4.pdf) ([R code](slides/Section03.4.R))
 
 
 # Homework assignments (solutions available via Canvas)
