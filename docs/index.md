@@ -49,6 +49,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 4. [Homework 4](homework/hw4.pdf)
 5. [Homework 5](homework/hw5.pdf) R code to read in data is here: [hw5.R](homework/hw5.R)
 6. [Homework 6](homework/hw6.pdf) R code to read in data is here: [hw6.R](homework/hw6.R)
+6. [Homework 7](homework/hw7.pdf) R code to read in data is here: [hw7.R](homework/hw7.R)
 
 
 # R/RStudio resources
