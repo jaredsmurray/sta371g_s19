@@ -131,6 +131,7 @@ print(beer_fit)
 # constructed covariates (which we extract from the model fit using the
 # model.matrix function)
 print(cbind(beer_series, X=model.matrix(beer_fit)[,-1]))
+View(cbind(beer_series, X=model.matrix(beer_fit)[,-1]))
 
 # Let's look at the model fit
 plot(beer_series, ylab="Beer Production")

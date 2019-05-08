@@ -41,6 +41,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 - [Section 3.4: Diagnostics and Transformations](slides/Section03.4.pdf) ([R code](slides/Section03.4.R))
 - [Section 4.1: Time Series I](slides/Section04.1.pdf) ([R code](slides/Section04.1.R))
 - [Section 4.2: Time Series II](slides/Section04.2.pdf) ([R code](slides/Section04.2.R))
+- [Section 5.1: Model Selection](slides/Section05.1.pdf) ([R code](slides/Section05.1.R))
 
 
 # Homework assignments (solutions available via Canvas)
